@@ -20,5 +20,5 @@ For those who don't know-- an analog to digital converter uses a reference-volta
 
 Here is a picture of the breadboard circuit so far. As of May 1, 2026 it is able to convert an input signal to Thermometer code.
 
-![ADC Graphic 1](#ADC.jpg)
+![ADC Graphic 1](ADC.jpg)
 
