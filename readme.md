@@ -5,10 +5,9 @@
 - [Summary](#summary)
 - [Design Specifications](#design-specifications)
 - [Project Diary](#project-diary)
-    -[May 1, 2026](#may-1,-2026)
+    -[May 1 2026](#May-1-2026)
     -[June 7 2026](#June-7-2026)
-- [Purpose](#purpose)
-    - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
+
 ## Summary  
 
 As of April 2026, I have taken both analog and digital circuits classes. I wanted to build project that took theory from both and applied it toward a useful end-goal. I decided to build a flash analog to digital converter.
@@ -28,7 +27,7 @@ For those who don't know-- an analog to digital converter uses a reference-volta
 
 ## Project Diary
 
-### May 1, 2026
+### May 1 2026
 
  I tried multiple chips from lab work I had done in the past such as TL071CP and CD4007, but kept finding errors in the output close to the boundary voltages set by the supply rails. After describing the phenomenon I was seeing to ChatGPT, I was recommended to find a rail-to-rail op-amp which is an op-amp that can both sense and output voltages all the way to its supply voltages. 
 
