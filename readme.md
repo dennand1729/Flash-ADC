@@ -4,7 +4,7 @@
 
 - [Summary](#summary)
 - [Design Specifications](#design-specifications)
-- [Project Diary](#project-diary)
+- [Project Diary](#project-diary)  
     -[May 1 2026](#May-1-2026)  
     -[June 7 2026](#June-7-2026)  
 
