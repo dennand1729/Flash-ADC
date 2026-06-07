@@ -41,6 +41,8 @@ After being unable to find a rail-to-rail op amp in the lab, I switched to using
 
 By researching online, I found that I needed to connect my three comparator outputs to the GPIO pins on the ESP32. After connecting the chip to a common ground, I plugged the chip into my computer to build the code that would transform the voltages at the GPIOs from thermometer code to binary
 
-I used Claude to help me write the C++ code I needed to flash onto the device via PlatformIO and VSCode. This was a process of many failures; I got some compiler errors I knew how to fix on my own and others error fixes were suggested by describing what I had changed and what the specific error was to Claude. This helped me fix problems such as altering the refresh rate as well as navigating around a new development environment I had never used before. Eventually I achieved a variable 2 bit binary output in response to the input voltage which may be seen in the video I took in UW lab below:
+I used Claude to help me write the C++ code I needed to flash onto the device via PlatformIO and VSCode. This was a process of many failures; I got some compiler errors I knew how to fix on my own and others error fixes were suggested by describing what I had changed and what the specific error was to Claude. This helped me fix problems such as altering the refresh rate as well as navigating around a new development environment I had never used before. Eventually I achieved a variable 2 bit binary output in response to the input voltage.
 
-[Watch the 2-bit Flash ADC Demo](2bit_flash_adc_demo.mp4)
+Click below to view the 2-bit Flash ADC in action:
+
+[▶ Watch Demo Video](./2bit_flash_adc_demo.mp4)
