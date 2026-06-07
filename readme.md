@@ -43,7 +43,7 @@ By researching online, I found that I needed to connect my three comparator outp
 
 I used Claude to help me write the C++ code I needed to flash onto the device via PlatformIO and VSCode. This was a process of many failures; I got some compiler errors I knew how to fix on my own and others error fixes were suggested by describing what I had changed and what the specific error was to Claude. This helped me fix problems such as altering the refresh rate as well as navigating around a new development environment I had never used before. Eventually I achieved a variable 2 bit binary output in response to the input voltage.
 
-![ADC Graphic 2](2bit ADC with ESP32.png)
+![ADC Graphic 2](2bitADCwithESP32.png)
 
 Click below to see my 2-bit Flash ADC in action! If the video does not display, download in seconds by clicking "view raw":
 
