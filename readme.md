@@ -6,8 +6,9 @@
 - [Design Specifications](#design-specifications)
 - [Project Diary](#project-diary)
     -[May 1, 2026](#may-1,-2026)
-    -[June 7 2026](#June-7-2026)
-
+    -[June 7th, 2026](#June-7th,-2026)
+- [Purpose](#purpose)
+    - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
 ## Summary  
 
 As of April 2026, I have taken both analog and digital circuits classes. I wanted to build project that took theory from both and applied it toward a useful end-goal. I decided to build a flash analog to digital converter.
@@ -37,7 +38,7 @@ After being unable to find a rail-to-rail op amp in the lab, I switched to using
 
 ![ADC Graphic 1](ADC.jpg)
 
-### June 26th, 2026
+### June 7th 2026
 
 By researching online, I found that I needed to connect my three comparator outputs to the GPIO pins on the ESP32. After connecting the chip to a common ground, I plugged the chip into my computer to build the code that would transform the voltages at the GPIOs from thermometer code to binary
 
