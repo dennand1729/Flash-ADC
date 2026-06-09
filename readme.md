@@ -45,8 +45,9 @@ I used Claude to help me write the C++ code I needed to flash onto the device vi
 
 ![ADC Graphic 2](2bitADCwithESP32.png)
 
-Click below to see my 2-bit Flash ADC in action! If the video does not display, download in seconds by clicking "view raw":
 
-![Watch Demo](https://youtube.com/shorts/ZXs7Y9UmGLA?feature=share)  
 
-[▶ Watch Demo Video](./2bit_flash_adc_demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/ZXs7Y9UmGLA/maxresdefault.jpg)](https://youtube.com/shorts/ZXs7Y9UmGLA?feature=share)
+
+Click the image above to watch the demonstration.
+
